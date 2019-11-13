@@ -8,5 +8,6 @@
 public class User {
     public void fun(){
         System.out.println("你好");
+        System.out.println("中国");
     }
 }
